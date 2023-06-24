@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رفيق الصلاة</string>
+
+    <string name="fajr">الفجر</string>
+    <string name="duha">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+
+    <string name="status">الحالة</string>
+    <string name="remaining_time_value">%02d:%02d:%02d</string>
+    <string name="remaining_time">الوقت المتبقي حتى صلاة %1$s</string>
+
+    <string name="error_something_went_wrong">نأسف, يبدوا ان هنالك مشكلة ما</string>
+
+    <string name="home_tab">الرئيسية</string>
+    <string name="qibla_tab">القبلة</string>
+    <string name="quran_tab">القرآن</string>
+
+    <string name="jamaah_prayer_status">جماعة</string>
+    <string name="on_time_prayer_status">على الوقت</string>
+    <string name="after_half_time_prayer_status">بعد نصف الوقت</string>
+    <string name="late_prayer_status">متاخر</string>
+    <string name="missed_prayer_status">فاتت</string>
+    <string name="qadaa_prayer_status">قضاء</string>
+    <string name="or">أو</string>
+    <string name="continue_with_google">تسجيل الدخول ب Google</string>
+    <string name="continue_as_guest">الاستمرار ك ضيف</string>
+    <!--  app name is used here  -->
+    <string name="location_permission_request_title">السماح لتطبيق رفيق الصلاة باستخدام موقعك الحالي</string>
+    <string name="location_permission_request_explanation">لتقديم اوقات صلاة دقيقة تناسب موقعك الحالي</string>
+    <string name="location_permission_request_cta">منح إذن الموقع</string>
+    <string name="location_permission_request_deny_body">لا يمكن استخدام التطبيق بدون الوصول لموقعك الحالي</string>
+
+    <!--  app name is used here  -->
+    <string name="notification_permission_request_title">السماح لتطبيق رفيق الصلاة بإرسال الاشعارات</string>
+    <string name="notification_permission_request_explanation">تتوجب لتوفير خدمة التذكير بالصلاة</string>
+    <string name="notification_permission_request_cta">منح إذن الاشعارات</string>
+    <string name="notification_permission_request_deny_body">إذن الاشعارات مطلوب للحصول على مزايا التطبيق كاملة</string>
+
+    <string name="prayer_reminders_channel_name">التذكير للصلاوات</string>
+    <string name="prayer_reminders_channel_description">التذكير للصلوات اليومية</string> <!-- change to a more useful description-->
+    <string name="prayer_notification_title">حان موعد اذان %1$s</string>
+
+    <string name="current_prayer">الصلاة الحالية</string>
+
+    <string name="sensor_accuracy_high">دقة مستشعر الهاتف جيدة</string>
+    <string name="sensor_accuracy_medium">دقة مستشعر الهاتف متوسطة</string>
+    <string name="sensor_accuracy_low">دقة مستشعر الهاتف تحتاج الى معايرة</string>
+    <string name="sensor_accuracy_no_contact">مستشعر الهاتف لا يعمل</string>
+
+    <string name="qibla_dialog_sensor_accuracy_title">هل دقة المستشعر منخفضة ؟</string>
+    <string name="qibla_dialog_sensor_accuracy_text">يرجى تحريك هاتفك في الهواء على شكل الرقم 8 من اجل الحصول على اتجاهات القبلة الدقيقة</string>
+
+    <string name="verses_count">%1$d أية</string>
+    <string name="from_verse">من آية</string>
+    <string name="to_verse">الى آية</string>
+
+    <string name="quran_title">السور المحفوظة</string>
+    <string name="chapter_name">اسم السورة</string>
+
+    <string name="edit_aya_from">من</string>
+    <string name="edit_aya_to">الى</string>
+
+    <string name="quran_reading_section">سورة %1$s (%2$d-%3$s):\n {%4$s}</string>
+    <string name="first_quran_reading_section">في الركعة الاولى</string>
+    <string name="second_quran_reading_section">في الركعة الثانية</string>
+    <string name="show_full_quran_reading_sections">إظهار الكل</string>
+    <string name="next_quran_reading_sections">التالي</string>
+    <string name="load_quran_sections">حمل اقسام القرآن</string>
+    <string name="empty_quran_sections_prompt">اختر بعض سور القران لتحصل على اقتراحات القرائة</string>
+
+    <!-- General -->
+    <string name="ok">حسنا</string>
+    <string name="skip">تخطي</string>
+
+</resources>
